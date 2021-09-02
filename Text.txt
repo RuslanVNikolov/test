@@ -1,2 +1,3 @@
-123 - master c1
-987 - master c2987 - feature c1
+123 - feature c2 edit
+987 - feature c1
+987 - master c2
